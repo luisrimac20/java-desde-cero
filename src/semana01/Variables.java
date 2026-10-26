@@ -1,4 +1,4 @@
-package Semana01;
+package semana01;
 
 public class Variables {
     int edad = 10;
